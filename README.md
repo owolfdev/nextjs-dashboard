@@ -1,3 +1,7 @@
+## continue tutorial here:
+
+https://nextjs.org/learn/dashboard-app/fetching-data
+
 ## Next.js App Router Course - Starter
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
