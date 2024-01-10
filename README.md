@@ -1,4 +1,4 @@
-update auth url at vercel https://vercel.com/owolfdev/nextjs-dashboard
+update auth url at vercel nextjs-dashboard-murex-phi-89.vercel.app
 
 ## tutorial here:
 
