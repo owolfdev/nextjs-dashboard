@@ -1,4 +1,4 @@
-update
+update auth url at vercel https://vercel.com/owolfdev/nextjs-dashboard
 
 ## tutorial here:
 
