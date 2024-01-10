@@ -1,6 +1,11 @@
-## continue tutorial here:
+## tutorial here:
 
-https://nextjs.org/learn/dashboard-app/fetching-data
+https://nextjs.org/learn/dashboard-app/
+
+You should be able to log in and out of your application using the following credentials:
+
+Email: user@nextmail.com
+Password: 123456
 
 ## Next.js App Router Course - Starter
 
